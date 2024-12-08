@@ -34,5 +34,8 @@
 * Запустите скрипт.
 
 ## Как это выглядит в Discord?
-![Демонстрация активности в Discord](https://i.postimg.cc/7h94HW0X/image.png "Text to show on mouseover")
+![Демонстрация активности в Discord](https://i.postimg.cc/7h94HW0X/image.png "Демонстрация активности в Discord")
+
+## Как это выглядит в консоли?
+![Демонстрация вывода в консоль](https://i.postimg.cc/GmvSxBhY/image.png "Демонстрация вывода в консоль")
 
